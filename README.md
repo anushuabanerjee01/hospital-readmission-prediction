@@ -34,7 +34,12 @@ This project aims to predict whether a patient will be readmitted to the hospita
 - Confusion matrices demonstrate consistent performance (no overfitting)
 
 ## 📁 Project Structure
-
+hospital-readmission-prediction/
+├── README.md # Project overview & documentation
+├── hospital_readmissions.csv # Cleaned dataset used for modeling
+├── 620_Project_LogisticRegression_Final_TEST.ipynb # Logistic Regression notebook
+├── BAN_620_NeuralNets_Final.ipynb # Neural Network notebook with GridSearch
+├── BAN 620 Project Hospital Readmission_FINAL.pdf # Final project report (visuals + results)
 
 ## ✅ Next Steps
 - Add ROC curve & precision-recall visualization
