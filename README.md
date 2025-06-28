@@ -34,3 +34,21 @@ This project aims to predict whether a patient will be readmitted to the hospita
 - Confusion matrices demonstrate consistent performance (no overfitting)
 
 ## 📁 Project Structure
+
+
+## ✅ Next Steps
+- Add ROC curve & precision-recall visualization
+- Integrate with Streamlit for interactive deployment
+- Explore explainable AI: SHAP/feature importance
+
+## 🏥 Impact Statement
+Hospital readmission is a key quality-of-care metric. A predictive model like this can help flag high-risk patients — especially diabetic — for additional support, reducing costs and improving outcomes.
+
+## 🔗 Project Showcase
+📄 [Final Report PDF](./BAN%20620%20Project%20Hospital%20Readmission_FINAL.pdf)  
+📓 [Notebook - Logistic Regression](./620_Project_LogisticRegression_Final_TEST.ipynb)  
+📓 [Notebook - Neural Network](./BAN_620_NeuralNets_Final.ipynb)
+
+## 👥 Team
+Anushua Banerjee, Syed Omar Ahmed, Kunal Kadam, Eric Viacrusis  
+MS Business Analytics @ CSU East Bay | May 2025
