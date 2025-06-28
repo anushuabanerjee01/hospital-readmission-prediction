@@ -46,8 +46,6 @@ Hospital readmission is a key quality-of-care metric. A predictive model like th
 
 ## 🔗 Project Showcase
 📄 [Final Report PDF](./BAN%20620%20Project%20Hospital%20Readmission_FINAL.pdf)  
-📓 [Notebook - Logistic Regression](./620_Project_LogisticRegression_Final_TEST.ipynb)  
-📓 [Notebook - Neural Network](./BAN_620_NeuralNets_Final.ipynb)
 
 ## 👥 Team
 Anushua Banerjee, Syed Omar Ahmed, Kunal Kadam, Eric Viacrusis  
